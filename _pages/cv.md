@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Engineering, Bogazici University, 2020
+  * Thesis: A Multimodal Approach for Automatic Mania Assessment in Bipolar Disorder
+  * GPA: 3.69/4.00
+* B.S. in Computer Engineering, Bogazici University, 2018
+  * Senior Project: Recovering Cost Function Using Inverse Reinforcement Learning
+  * GPA: 2.71/4.00
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Machine Learning Engineer, Arcelik Innovation Center
+  * (Sep 2019 - Present)  
+  * Age, gender and emotion recognition from speech data
 
 * Fall 2015: Research Assistant
   * Github University
